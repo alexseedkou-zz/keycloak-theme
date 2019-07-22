@@ -15,8 +15,8 @@
  * limitations under the License.
  */
 
-#kc-logo-wrapper {
-    background: url("../img/medgen-logo.png") no-repeat top right;
-    height: 174px;
-    width: 418px;
+.kc-logo-text {
+    background: url("../img/medgen-logo.png") no-repeat top right !important;
+    height: 174px !important;
+    width: 418px !important;
 }
