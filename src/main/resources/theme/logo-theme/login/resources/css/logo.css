@@ -15,8 +15,8 @@
  * limitations under the License.
  */
 
-.navbar-title {
-    background: url('../img/red-hat-logo.png') no-repeat;
-    height: 45px;
-    width: 150px;
+#kc-logo-wrapper {
+    background: url("../img/medgen-logo.png") no-repeat top right;
+    height: 174px;
+    width: 418px;
 }

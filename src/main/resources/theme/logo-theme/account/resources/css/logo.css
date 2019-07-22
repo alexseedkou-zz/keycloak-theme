@@ -15,7 +15,8 @@
  * limitations under the License.
  */
 
-
-.navbar-pf .navbar-brand {
-    background: url('../img/red-hat-logo.png') no-repeat 0px 5px;
+.navbar-title {
+    background: url('../img/medgen-logo.png') no-repeat;
+    height: 174px;
+    width: 418px;
 }

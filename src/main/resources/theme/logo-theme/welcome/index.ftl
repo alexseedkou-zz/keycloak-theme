@@ -27,7 +27,7 @@
 <div class="wrapper">
     <div class="content">
         <div class="logo">
-                <img src="welcome-content/red-hat-logo.png" alt="Red Hat" border="0" />
+                <img src="welcome-content/medgen-logo.png" alt="Institute for Medical and Applied Genetics" border="0" />
         </div>
         <h1>Welcome to Keycloak</h1>
 
