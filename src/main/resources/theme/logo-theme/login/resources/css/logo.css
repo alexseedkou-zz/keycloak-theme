@@ -20,3 +20,11 @@
     height: 174px !important;
     width: 418px !important;
 }
+
+.login-pf-header {
+    padding-top: 5px;
+}
+
+#kc-form {
+    padding-bottom: 5px;
+}
