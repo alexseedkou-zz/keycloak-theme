@@ -1,6 +1,6 @@
 {
 	"themes": [{
-		"name": "logo-example",
+		"name": "logo-theme",
 		"types": ["admin", "account", "login", "welcome"]
 	}]
 }

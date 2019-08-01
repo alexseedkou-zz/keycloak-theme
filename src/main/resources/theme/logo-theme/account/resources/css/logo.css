@@ -20,3 +20,11 @@
     height: 174px;
     width: 418px;
 }
+
+#kc-header {
+    color: transparent !important; /* ignore the default realm text because it is really annoying */
+    margin-left: 38vw;
+    background: url(../img/medgen-logo.png) no-repeat top right !important;
+    height: 174px !important;
+    width: 418px !important;
+}

@@ -23,14 +23,14 @@
         <version>5.0.0-SNAPSHOT</version>
     </parent>
 
-    <name>Themes Examples</name>
+    <name>IMGAG themes</name>
     <description/>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>keycloak-example-themes</artifactId>
+    <artifactId>imgag-themes</artifactId>
     <packaging>jar</packaging>
 
     <build>
-        <finalName>keycloak-example-themes</finalName>
+        <finalName>imgag-themes</finalName>
     </build>
 </project>
